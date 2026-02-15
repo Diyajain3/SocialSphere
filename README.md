@@ -43,4 +43,12 @@ MiniProject/
 │── .env
 │── .gitignore
 
+## 📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/d977b3fc-3932-455a-83c8-b91253775646" />
+
+<img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/33179ade-965d-4edf-88fe-08bf67ea353e" />
+
+<img width="1920" height="1080" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/22412a69-413c-4750-92b6-7da5690b0823" />
+
 
