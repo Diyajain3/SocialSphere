@@ -28,12 +28,26 @@ SocialSphere is a full-stack MERN social media application where users can creat
 
 ---
 
+
 ## 📂 Project Structure
 
 MiniProject/
 │── config/
 │── models/
 │── public/
+│   └── images/
+│       └── uploads/
 │── views/
 │── app.js
 │── package.json
+│── .env
+│── .gitignore
+
+
+## 📸 Screenshots
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
